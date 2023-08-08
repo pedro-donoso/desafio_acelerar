@@ -12,7 +12,7 @@
 	}
 
 	body:before {
-		content: 'Javascript is disabled :(';
+		content: '';
 		display: block;
 		position: absolute;
 		top: 50%;
